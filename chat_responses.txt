@@ -1,0 +1,6 @@
+id,gender,question,answer
+M001,male,I am feeling stressed because of my workload. What should I do?,(ERROR: Could not find question in copied text)
+F002,female,I am struggling to balance work and personal life.,(ERROR: Could not find question in copied text)
+M003,male,I want to switch careers but I am scared of failure.,(ERROR: Could not find question in copied text)
+F004,female,I feel lonely even when I am surrounded by people.,(ERROR: Could not find question in copied text)
+M005,male,I have been feeling anxious lately without any clear reason.,(ERROR: Could not find question in copied text)
