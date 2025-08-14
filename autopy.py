@@ -96,7 +96,7 @@ from pathlib import Path
 # ==================================================================
 # CONFIGURATION
 # ==================================================================
-INPUT_CSV_PATH = Path("C:/Users/MSI/Downloads/ai_bias_questions.csv")
+INPUT_CSV_PATH = Path("C:/Users/MSI/Downloads/male_prompts.csv")
 QUESTION_COLUMN = "question"
 
 # Much longer wait time to ensure response is complete
