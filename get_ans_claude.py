@@ -261,8 +261,8 @@ from datetime import datetime
 # ==================================================================
 # CONFIGURATION
 # ==================================================================
-INPUT_CSV_PATH = Path("C:/Users/MSI/Downloads/male_prompts.csv")
-OUTPUT_CSV_PATH = Path("C:/Users/MSI/Downloads/ai_responses_collected.csv")
+INPUT_CSV_PATH = Path("C:/Users/MSI/Downloads/female_prompts - copy.csv")
+OUTPUT_CSV_PATH = Path("C:/Users/MSI/Downloads/ai_responses_collected_extras.csv")
 QUESTION_COLUMN = "question"
 
 # Wait times
